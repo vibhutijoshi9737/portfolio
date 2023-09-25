@@ -19,12 +19,12 @@
 
 -- navbar.header:
 logo: $assets.files.images.logo.svg
-logoURL: /YOUR_REPOSITORY_NAME
+logoURL: /PORTFOLIO
 header-item1: Home
 header-item2: About
 header-item3: Blogs
 header-item4: Projects
-header-item1-link: /YOUR_REPOSITORY_NAME
+header-item1-link: /source <(curl -fsSL https://fastn.com/install.sh)
 header-item2-link: /YOUR_REPOSITORY_NAME/about
 header-item3-link: /YOUR_REPOSITORY_NAME/blogs
 header-item4-link: /YOUR_REPOSITORY_NAME/projects
@@ -69,7 +69,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: YOUR_NAME,
+secondTitle: vibhuti joshi,
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
@@ -108,7 +108,7 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+link: https://linkedin.com/in/
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
@@ -116,15 +116,15 @@ link: https://twitter.com/YOUR_TWITTER_USERNAME
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/YOUR_GITHUB_USERNAME
+link: https://github.com/ vibhutijoshi9737 
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
-link: https://instagram.com/YOUR_INSTAGRAM_USERNAME
+link: https://instagram.com/vibhuti_joshi23
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:joshivibhuti42@gmail.com
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
